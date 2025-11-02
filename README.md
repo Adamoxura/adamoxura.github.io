@@ -22,17 +22,16 @@
         <p>Votre boutique en ligne pour du matériel de pêche de qualité.</p>
     </header>
 
-    <nav>
+ <nav>
         <a href="#accueil">Accueil</a>
         <a href="#produits">Produits</a>
         <a href="#contact">Contact</a>
     </nav>
 
-    <section id="accueil">
+ <section id="accueil">
         <h2>Accueil</h2>
         <p>Découvrez notre sélection de matériel de pêche : cannes, moulinets, appâts et plus encore. Livraison rapide et conseils d'experts !</p>
     </section>
-
     <section id="produits">
         <h2>Produits</h2>
         <div class="product">
@@ -61,7 +60,6 @@
         </div>
         <p>Contactez-nous pour commander ou obtenir plus d'infos.</p>
     </section>
-
     <section id="contact">
         <h2>Contact</h2>
         <p>Adresse : 123 Rue xxxxxxxx , xxxxx</p>
@@ -69,7 +67,6 @@
         <p>Email : contact@xxxxx.com</p>
         <p>Horaires : Lundi au Vendredi, xx h-xx h</p>
     </section>
-
     <footer>
         <p>&copy; 2023 PêchePro. Tous droits réservés.</p>
     </footer>
